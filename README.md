@@ -3,4 +3,7 @@ System that manages staffs, students, education and relevant social issues deplo
 
 
 ## The general look
-![](./static/assets/img/view.png)
+![](./static/assets/img/view1.png)
+
+## The demo video
+![](./static/assets/img/demo.webm)
